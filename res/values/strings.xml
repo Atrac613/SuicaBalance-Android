@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">SuicaBalance</string>
+    <string name="hello_tag">Touch your Suica to a phone.</string>
+    <string name="read_label">Reload</string>
+    <string name="balance">%s Yen</string>
+    <string name="now_loading">Now Loading</string>
+
+</resources>
